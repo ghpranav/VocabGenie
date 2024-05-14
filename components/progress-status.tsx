@@ -10,9 +10,9 @@ export interface ProgressStatusProps {
 export default function ProgressStatus(params: Readonly<ProgressStatusProps>) {
   const { totalWords, masteredWords, reviewingWords, learningWords } = params;
 
-  const masteredPercentage = (masteredWords / totalWords) * 100;
-  const reviewingPercentage = (reviewingWords / totalWords) * 100;
-  const learningPercentage = (learningWords / totalWords) * 100;
+  const masteredPercentage = Math.ceil((masteredWords / totalWords) * 100);
+  const reviewingPercentage = Math.ceil((reviewingWords / totalWords) * 100);
+  const learningPercentage = Math.ceil((learningWords / totalWords) * 100);
 
   return (
     <div className="space-y-2">

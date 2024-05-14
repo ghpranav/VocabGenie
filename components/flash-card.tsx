@@ -25,8 +25,8 @@ export default function FlashCard(params: Readonly<FlashCardProps>) {
 
   const [prompt, setPrompt] = useState("");
   const [showDefinition, setShowDefinition] = useState(false);
-  const [score, setScore] = useState(null);
-  const [response, setResponse] = useState(null);
+  const [score, setScore] = useState<any>(null);
+  const [response, setResponse] = useState<any>(null);
   const [isLoading, setIsLoading] = useState(false);
 
   const toggleDefinition = () => {
@@ -64,6 +64,10 @@ export default function FlashCard(params: Readonly<FlashCardProps>) {
       setResponse(result?.data?.explanation);
     } catch (error) {
       console.error(error);
+      setScore("no");
+      setResponse(
+        "Sorry, I'm currently unavailable due to high traffic. Please try again later."
+      );
     } finally {
       setPrompt("");
       setIsLoading(false);
@@ -77,10 +81,24 @@ export default function FlashCard(params: Readonly<FlashCardProps>) {
         {!showDefinition ? (
           <>
             <Badge
-              className="absolute top-2 right-2 bg-[#dddddd] text-gray-500 rounded-md uppercase"
+              className={clsx(
+                {
+                  "absolute top-2 right-2 text-gray-600 rounded-md uppercase":
+                    true,
+                },
+                {
+                  "bg-[#dddddd]": status === "learning",
+                },
+                {
+                  "bg-[#f6e05e]": status === "reviewing",
+                },
+                {
+                  "bg-[#22c55e]": status === "mastered",
+                }
+              )}
               variant="outline"
             >
-              {status ?? "Learning"}
+              {status ?? "learning"}
             </Badge>
             <div className="text-center">
               <h2 className="text-3xl font-bold text-gray-800 mb-3">{word}</h2>
@@ -154,7 +172,7 @@ export default function FlashCard(params: Readonly<FlashCardProps>) {
                 />
                 <div className="space-y-1">
                   <p className="text-sm font-semibold leading-none">
-                    VocabGenie
+                    VocabGenie AI
                   </p>
                   <p className="text-sm font-medium">{response}</p>
                 </div>
