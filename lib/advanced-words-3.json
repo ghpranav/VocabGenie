@@ -1,0 +1,252 @@
+{
+    "provident": {
+        "type": "adjective",
+        "explanation": "careful in regard to your own interests; providing carefully for the future",
+        "example": "In a move that hardly could be described as provident, Bert spent his entire savings on a luxurious cruise, knowing that other bills would come due a couple months later."
+    },
+    "recapitulation": {
+        "type": "noun",
+        "explanation": "a summary (think of recap)",
+        "example": "Every point of the professors lesson was so clear that the students felt his concluding recapitulation was not necessary."
+    },
+    "pecuniary": {
+        "type": "adjective",
+        "explanation": "relating to or involving money",
+        "example": "The defendant was found guilty and had to serve a period of community service as well as pay pecuniary damages to the client."
+    },
+    "mordant": {
+        "type": "adjective",
+        "explanation": "biting and caustic in thought, manner, or style",
+        "example": "While Phil frequently made mordant remarks about company policy overall, he always was considerably gentler in discussing any person in particular."
+    },
+    "epiphany": {
+        "type": "noun",
+        "explanation": "a sudden revelation or moment of insight",
+        "example": "Gary one day had an epiphany that he was a people person; he promptly quit his factory job and began working as a salesman."
+    },
+    "unforthcoming": {
+        "type": "adjective",
+        "explanation": "uncooperative, not willing to give up information",
+        "example": "The teacher demanded to know who broke the window while he was out of the room, but the students understandably were unforthcoming."
+    },
+    "impute": {
+        "type": "verb",
+        "explanation": "attribute (responsibility or fault) to something",
+        "example": "He imputed his subpar performance on the test to a combination of stress and poor sleep."
+    },
+    "temerity": {
+        "type": "noun",
+        "explanation": "fearless daring",
+        "example": "No child has the temerity to go in the rundown house at the end of the street and see if it is haunted."
+    },
+    "hagiographic": {
+        "type": "adjective",
+        "explanation": "excessively flattering toward someone's life or work",
+        "example": "Most accounts of Tiger Woods's life were hagiographic, until, that is, his affairs made headlines."
+    },
+    "redoubtable": {
+        "type": "adjective",
+        "explanation": "inspiring fear or awe",
+        "example": "On television basketball players don't look that tall, but when you stand in front of a seven-foot tall NBA player, he is truly redoubtable."
+    },
+    "vitriolic": {
+        "type": "adjective",
+        "explanation": "harsh or corrosive in tone",
+        "example": "While the teacher was more moderate in her criticism of the other student's papers, she was vitriolic toward Peter's paper, casting every flaw in the harshest light."
+    },
+    "quail": {
+        "type": "verb",
+        "explanation": "draw back, as with fear or pain",
+        "example": "Craig always claimed to be a fearless outdoorsman, but when the thunderstorm engulfed the valley, he quailed at the thought of leaving the safety of his cabin."
+    },
+    "primacy": {
+        "type": "noun",
+        "explanation": "the state of being first in importance",
+        "example": "The primacy of Apple Computers is not guaranteed, as seen in the recent lawsuits and weak growth."
+    },
+    "enjoin": {
+        "type": "verb",
+        "explanation": "give instructions to or direct somebody to do something with authority",
+        "example": "The government agency enjoined the chemical company to clean up the hazardous dump it had created over the years."
+    },
+    "sinecure": {
+        "type": "noun",
+        "explanation": "an office that involves minimal duties",
+        "example": "The position of Research Director is a sinecure: the job entails almost no responsibilities, nor does the person in that position have to answer to anyone."
+    },
+    "sagacious": {
+        "type": "adjective",
+        "explanation": "having good judgement and acute insight",
+        "example": "Steve Jobs is surely one of the most sagacious CEOs, making Apple one of the most recognizable and valuable companies in the world."
+    },
+    "derelict": {
+        "type": "adjective",
+        "explanation": "(of a person) not doing one's duties",
+        "example": "The teacher was derelict in her duties because she hadn't graded a single student paper in three weeks."
+    },
+    "charlatan": {
+        "type": "noun",
+        "explanation": "a flamboyant deceiver; one who attracts customers with tricks or jokes",
+        "example": "You may call him a \"motivational speaker,\" but I call him a charlatan--he doesn't have any idea what he's really talking about."
+    },
+    "insouciance": {
+        "type": "noun",
+        "explanation": "lack of concern",
+        "example": "Surprisingly, Hank had become a high-powered CEO; his high school friends remembered him as \"Hanky Panky\", who shrugged off each failed class with insouciance."
+    },
+    "importune": {
+        "type": "verb",
+        "explanation": "beg persistently and urgently",
+        "example": "After weeks of importuning the star to meet for a five-minute interview, the journalist finally got what she wanted."
+    },
+    "portentous": {
+        "type": "adjective",
+        "explanation": "ominously prophetic",
+        "example": "When the captain and more than half the officers were sick on the very first night of the voyage, many of the passengers felt this was portentous, but the rest of the voyage continued without any problems."
+    },
+    "effrontery": {
+        "type": "noun",
+        "explanation": "audacious (even arrogant) behavior that you have no right to",
+        "example": "The skateboarders acted with effrontery, skating through the church grounds and spray-painting signs warning trespassers."
+    },
+    "approbatory": {
+        "type": "adjective",
+        "explanation": "expressing praise or approval",
+        "example": "Although it might not be her best work, Hunter's new novel has received generally approbatory reviews."
+    },
+    "umbrage": {
+        "type": "noun",
+        "explanation": "a feeling of anger caused by being offended",
+        "example": "Since he was so in love with her, he took umbrage at her comments, even though she had only meant to gently tease him."
+    },
+    "prognostication": {
+        "type": "noun",
+        "explanation": "a statement made about the future",
+        "example": "When the Senator was asked about where the negotiations would lead, he said that any guess he could make would be an unreliable prognostication."
+    },
+    "lugubrious": {
+        "type": "adjective",
+        "explanation": "excessively mournful",
+        "example": "At the funeral, lugubrious songs filled the small church."
+    },
+    "solecism": {
+        "type": "noun",
+        "explanation": "a socially awkward or tactless act",
+        "example": "Mother Anna was always on guard against any solecism from her children and scolded them immediately if any of them talked out of place in public."
+    },
+    "gaffe": {
+        "type": "noun",
+        "explanation": "a socially awkward or tactless act",
+        "example": "In a famous gaffe, Vice President Quayle attempted to correct the spelling of a grade school student, only to find that the child was correct."
+    },
+    "flummox": {
+        "type": "verb",
+        "explanation": "be a mystery or bewildering to",
+        "example": "Mary's behavior completely flummoxes me: I never have any idea what her motivations might be."
+    },
+    "duplicity": {
+        "type": "noun",
+        "explanation": "deceitfulness, pretending to want one thing but interested in something else",
+        "example": "A life of espionage is one of duplicity: an agent must pretend to be a totally different person than who she or he actually is."
+    },
+    "punctilious": {
+        "type": "adjective",
+        "explanation": "marked by precise accordance with details",
+        "example": "The colonel was so punctilious about enforcing regulations that men feel compelled to polish even the soles of their shoes."
+    },
+    "lampoon": {
+        "type": "verb",
+        "explanation": "ridicule with satire",
+        "example": "Mark Twain understood that lampooning a bad idea with humor was the most effective criticism."
+    },
+    "enthrall": {
+        "type": "verb",
+        "explanation": "hold spellbound",
+        "example": "She was so enthralled by the movie that she never heard people screaming, \"Fire! Fire!\" in the neighboring theater."
+    },
+    "illustrious": {
+        "type": "adjective",
+        "explanation": "widely known and esteemed; having or conferring glory",
+        "example": "Einstein was possibly the most illustrious scientist in recent history."
+    },
+    "prolixity": {
+        "type": "noun",
+        "explanation": "boring verbosity",
+        "example": "I loved my grandfather dearly, but his prolixity would put me to sleep, regardless of the topic."
+    },
+    "artlessness": {
+        "type": "noun",
+        "explanation": "the quality of innocence",
+        "example": "I, personally, found the artlessness of her speech charming."
+    },
+    "hail": {
+        "type": "verb",
+        "explanation": "enthusiastically acclaim or celebrate something",
+        "example": "Many college superstar athletes are hailed as the next big thing, but then flop at the professional level."
+    },
+    "anemic": {
+        "type": "adjective",
+        "explanation": "lacking energy and vigor",
+        "example": "After three straight shows, the lead actress gave an anemic performance the fourth night, barely speaking loudly enough for those in the back rows to hear."
+    },
+    "bowdlerize": {
+        "type": "verb",
+        "explanation": "edit by omitting or modifying parts considered indelicate",
+        "example": "To receive an R rating, the entire movie was bowdlerized because it contained so much violence and grotesque subject matter."
+    },
+    "probity": {
+        "type": "noun",
+        "explanation": "integrity, strong moral principles",
+        "example": "The ideal politician would have the probity to lead, but reality gravely falls short of the ideal of morally upright leaders."
+    },
+    "moribund": {
+        "type": "adjective",
+        "explanation": "being on the point of death; declining rapidly losing all momentum in progress",
+        "example": "Whether you like it or not, jazz as a genre is moribund at best, possibly already dead."
+    },
+    "anodyne": {
+        "type": "noun",
+        "explanation": "something that soothes or relieves pain",
+        "example": "Muzak, which is played in department stores, is intended to be an anodyne, but is often so cheesy and over-the-top that customers become irritated."
+    },
+    "raconteur": {
+        "type": "noun",
+        "explanation": "a person skilled in telling anecdotes",
+        "example": "Jude is entertaining, but he is no raconteur: beyond the handful of amusing stories he has memorized, he has absolutely no spontaneous story-telling ability."
+    },
+    "cede": {
+        "type": "verb",
+        "explanation": "relinquish possession or control over",
+        "example": "Eventually, all parents must cede control of their growing childrens' educations and allow their offspring some autonomy."
+    },
+    "litany": {
+        "type": "noun",
+        "explanation": "any long and tedious account of something",
+        "example": "Mr. Rogers spoke to a Senate committee and did not give a litany of reasons to keep funding the program, but instead, appealed to the basic human decency of all present."
+    },
+    "semblance": {
+        "type": "noun",
+        "explanation": "an outward or token appearance or form that is deliberately misleading",
+        "example": "While the banker maintained a semblance of respectability in public, those who knew him well were familiar with his many crimes."
+    },
+    "perspicacious": {
+        "type": "adjective",
+        "explanation": "acutely insightful and wise",
+        "example": "Many modern observers regard Eisenhower as perspicacious, particularly in his accurate prediction of the growth of the military."
+    },
+    "plucky": {
+        "type": "adjective",
+        "explanation": "marked by courage and determination",
+        "example": "Some scouts initially doubted Pedroia because of his short stature, but he is a plucky player, surprising everyone with his boundless energy and fierce determination."
+    },
+    "grandiloquent": {
+        "type": "adjective",
+        "explanation": "puffed up with vanity",
+        "example": "The dictator was known for his grandiloquent speeches, puffing his chest out and using big, important-sounding words."
+    },
+    "maunder": {
+        "type": "verb",
+        "explanation": "wander aimlessly",
+        "example": "Max liked to maunder down by the seaside and pick up whatever sea shells he would stumble upon."
+    }
+}

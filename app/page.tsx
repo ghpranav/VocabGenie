@@ -1,29 +1,24 @@
-'use client';
+import DeckCard from "@/components/deck-card";
+import { decks } from "@/lib/decks";
 
-import { useChat } from "ai/react";
-
-export default function Chat() {
-  const { messages, input, handleInputChange, handleSubmit } = useChat();
-
+export default function Home() {
   return (
-    <div className="flex flex-col w-full max-w-md py-24 mx-auto stretch">
-      {messages.length > 0
-        ? messages.map((m) => (
-            <div key={m.id} className="whitespace-pre-wrap">
-              {m.role === "user" ? "User: " : "AI: "}
-              {m.content}
-            </div>
-          ))
-        : null}
-
-      <form onSubmit={handleSubmit}>
-        <input
-          className="fixed bottom-0 w-full max-w-md p-2 mb-8 border border-gray-300 rounded shadow-xl"
-          value={input}
-          placeholder="Say something..."
-          onChange={handleInputChange}
-        />
-      </form>
-    </div>
+    <main className="w-full max-w-6xl mx-auto px-4 py-8 md:px-6 md:py-12 lg:px-8 lg:py-16">
+      <div className="space-y-2 mb-8">
+        <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none bg-clip-text text-transparent bg-gradient-to-r from-white to-slate-900">
+          Vocab Genie
+        </h1>
+      </div>
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+        {decks.map((deck, index) => (
+          <DeckCard
+            key={index}
+            alt={deck.alt}
+            src={deck.src}
+            title={deck.title}
+          />
+        ))}
+      </div>
+    </main>
   );
 }

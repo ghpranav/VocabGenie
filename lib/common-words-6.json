@@ -1,0 +1,257 @@
+{
+    "banality": {
+        "type": "noun",
+        "explanation": "a trite or obvious remark",
+        "example": "Herbert regarded the minister's remark as a mere banality until Sharon pointed out profound implications to the seemingly obvious words."
+    },
+    "polemic": {
+        "type": "noun",
+        "explanation": "a strong verbal or written attack on someone or something.",
+        "example": "The professor launched into a polemic, claiming that Freudian theory was a pack of lies that absolutely destroyed European literary theory."
+    },
+    "sullen": {
+        "type": "adjective",
+        "explanation": "showing a brooding ill humor",
+        "example": "Herbert took board games too seriously, often appearing sullen after losing."
+    },
+    "misconstrue": {
+        "type": "verb",
+        "explanation": "interpret in the wrong way",
+        "example": "The politician never trusted journalists because he thought that they would misconstrue his words and misrepresent his positions."
+    },
+    "mundane": {
+        "type": "adjective",
+        "explanation": "repetitive and boring; not spiritual",
+        "example": "Nancy found doing dishes a thoroughly mundane task, although Peter found a kind of Zen pleasure in the chore."
+    },
+    "duress": {
+        "type": "noun",
+        "explanation": "compulsory force or threat",
+        "example": "The witness said he signed the contract under duress and argued that the court should cancel the agreement."
+    },
+    "erudite": {
+        "type": "adjective",
+        "explanation": "having or showing profound knowledge",
+        "example": "Before the Internet, the library was typically where you would find erudite readers."
+    },
+    "antipathy": {
+        "type": "noun",
+        "explanation": "an intense feeling of dislike or aversion",
+        "example": "Maria had an antipathy for tour groups, often bolting to the other side of the museum as soon as she saw a chaperone leading a group of wide-eyed tourists."
+    },
+    "capricious": {
+        "type": "adjective",
+        "explanation": "determined by chance or impulse or whim rather than by necessity or reason",
+        "example": "Nearly every month our capricious CEO had a new plan to turn the company around, and none of them worked because we never gave them the time they needed to succeed."
+    },
+    "reproach": {
+        "type": "verb",
+        "explanation": "to express criticism towards",
+        "example": "At first, Sarah was going to yell at the boy, but she didn't want to reproach him for telling the truth about the situation."
+    },
+    "anomaly": {
+        "type": "noun",
+        "explanation": "something that is not normal, standard, or expected",
+        "example": "After finding an anomaly in the data, she knew that she would have to conduct her experiment again."
+    },
+    "specious": {
+        "type": "adjective",
+        "explanation": "based on pretense; deceptively pleasing",
+        "example": "Almost every image on TV is specious and not to be trusted."
+    },
+    "imprudent": {
+        "type": "adjective",
+        "explanation": "not wise",
+        "example": "Hitler, like Napoleon, made the imprudent move of invading Russia in winter, suffering even more casualties than Napoleon had."
+    },
+    "dispassionate": {
+        "type": "adjective",
+        "explanation": "unaffected by strong emotion or prejudice",
+        "example": "A good scientist should be dispassionate, focusing purely on what the evidence says, without personal attachment."
+    },
+    "arduous": {
+        "type": "adjective",
+        "explanation": "demanding considerable mental effort and skill; testing powers of endurance",
+        "example": "In order to deal with the arduous cross-country journey, truck drivers often survive on a string of caffeinated drinks, staying awake for up to 30 hours at a time."
+    },
+    "magoosh-score-estimator": {
+        "type": "noun",
+        "explanation": "After taking a practice exam, determine your score on the GRE 340-point scale.  Learn more at http",
+        "example": "Mike scored a 335 on a practice exam using the Magoosh score estimator."
+    },
+    "opulence": {
+        "type": "noun",
+        "explanation": "wealth as evidenced by sumptuous living",
+        "example": "Russian oligarchs are famous for their opulence, living in fancy homes and dining on expensive caviar."
+    },
+    "posit": {
+        "type": "verb",
+        "explanation": "assume as fact",
+        "example": "Initially, Einstein posited a repulsive force to balance Gravity, but then rejected that idea as a blunder."
+    },
+    "placate": {
+        "type": "verb",
+        "explanation": "cause to be more favorably inclined; gain the good will of",
+        "example": "I was able to placate the angry mob of students by promising to bring cookies on Monday."
+    },
+    "furtive": {
+        "type": "adjective",
+        "explanation": "marked by quiet and caution and secrecy; taking pains to avoid being observed",
+        "example": "While at work, George and his boss Regina felt the need to be as furtive as possible about their romantic relationship."
+    },
+    "elicit": {
+        "type": "verb",
+        "explanation": "call forth (emotions, feelings, and responses)",
+        "example": "Just smiling--even if you are depressed--can elicit feelings of pleasure and happiness."
+    },
+    "mendacity": {
+        "type": "noun",
+        "explanation": "the tendency to be untruthful",
+        "example": "I can forgive her for her mendacity but only because she is a child and is seeing what she can get away with."
+    },
+    "truncate": {
+        "type": "verb",
+        "explanation": "reduce the length of something",
+        "example": "The soccer game was truncated when the monsoon rain began to fall."
+    },
+    "maladroit": {
+        "type": "adjective",
+        "explanation": "clumsy",
+        "example": "As a child she was quite maladroit, but as an adult, she has become an adept dancer."
+    },
+    "nonplussed": {
+        "type": "adjective",
+        "explanation": "unsure how to act or respond",
+        "example": "Shirley was totally nonplussed when the angry motorist cut her off and then stuck his finger out the window."
+    },
+    "transient": {
+        "type": "adjective",
+        "explanation": "lasting a very short time",
+        "example": "The unpredictable and transient nature of deja vu makes it a very difficult phenomenon to study properly."
+    },
+    "rebuke": {
+        "type": "verb",
+        "explanation": "criticize severely or angrily; censure",
+        "example": "The police chief rebuked the two officers whose irresponsible decisions almost led to the deaths of seven innocent by-standers."
+    },
+    "nuance": {
+        "type": "noun",
+        "explanation": "a subtle difference in meaning or opinion or attitude",
+        "example": "Because of the nuances involved in this case, I hired an outside consultant to advise us and help."
+    },
+    "indecorous": {
+        "type": "adjective",
+        "explanation": "not in keeping with accepted standards of what is right or proper in polite society",
+        "example": "Eating with elbows on the table is considered indecorous in refined circles."
+    },
+    "economical": {
+        "type": "adjective",
+        "explanation": "avoiding waste, efficient",
+        "example": "Journalists favor an economical style of writing, in which no unnecessary words are used and every sentence is as short as possible."
+    },
+    "esoteric": {
+        "type": "adjective",
+        "explanation": "confined to and understandable by only an enlightened inner circle",
+        "example": "Map collecting is an esoteric hobby to most, but to geography geeks it is a highly enjoyable pastime."
+    },
+    "efficacious": {
+        "type": "adjective",
+        "explanation": "producing the intended result",
+        "example": "Since Maggie's cough syrup, which had expired five years back, was no longer efficacious, she coughed through the night."
+    },
+    "impartial": {
+        "type": "adjective",
+        "explanation": "free from undue bias or preconceived opinions",
+        "example": "The judge was not impartial since he had been bribed by the witness's family."
+    },
+    "askance": {
+        "type": "adverb",
+        "explanation": "with a look of suspicion or disapproval",
+        "example": "The old couple looked askance on the teenagers seated next to them, whispering to each other, \"They've got rings through their noses and purple hair!\""
+    },
+    "disseminate": {
+        "type": "verb",
+        "explanation": "cause to become widely known",
+        "example": "Before the effects of anesthesia were disseminated, patients had to experience the full pain of a surgery."
+    },
+    "dilatory": {
+        "type": "adjective",
+        "explanation": "wasting time",
+        "example": "Lawyers use dilatory tactics so that it takes years before the case is actually decided."
+    },
+    "contrition": {
+        "type": "noun",
+        "explanation": "the feeling of remorse or guilt that comes from doing something bad",
+        "example": "Those who show contrition during their prison terms--especially when under review by a parole board--often get shortened sentences."
+    },
+    "stringent": {
+        "type": "adjective",
+        "explanation": "demanding strict attention to rules and procedures",
+        "example": "Most of the students disliked the teacher because of his stringent homework policy, but many students would later thank him for demanding so much from them."
+    },
+    "appease": {
+        "type": "verb",
+        "explanation": "pacify by acceding to the demands of",
+        "example": "Neville Chamberlain, the British prime minister during WWII, tried to appease Hitler and in doing so sent a clear message: you can walk all over us."
+    },
+    "ignominious": {
+        "type": "adjective",
+        "explanation": "(used of conduct or character) deserving or bringing disgrace or shame",
+        "example": "Since the politician preached ethics and morality, his texting of revealing photographs was ignominious, bringing shame on both himself and his party."
+    },
+    "harried": {
+        "type": "adjective",
+        "explanation": "troubled persistently especially with petty annoyances",
+        "example": "With a team of new hires to train, Martha was constantly harried with little questions and could not focus on her projects."
+    },
+    "timorous": {
+        "type": "adjective",
+        "explanation": "timid by nature or revealing fear and nervousness",
+        "example": "Since this was her first time debating on stage and before an audience, Di's voice was timorous and quiet for the first 10 minutes."
+    },
+    "fastidious": {
+        "type": "adjective",
+        "explanation": "overly concerned with details; fussy",
+        "example": "Whitney is fastidious about her shoes, arranging them on a shelf in a specific order, each pair evenly spaced."
+    },
+    "deleterious": {
+        "type": "adjective",
+        "explanation": "harmful to living things",
+        "example": "The BP oil spill in the Gulf of Mexico was deleterious to the fishing industry in the southern states."
+    },
+    "jovial": {
+        "type": "adjective",
+        "explanation": "full of or showing high-spirited merriment",
+        "example": "The presidential candidate and her supporters were jovial once it was clear that she had won."
+    },
+    "craven": {
+        "type": "adjective",
+        "explanation": "pathetically cowardly",
+        "example": "Though the man could have at least alerted the police, he crouched cravenly in the corner as the old woman was mugged."
+    },
+    "bolster": {
+        "type": "verb",
+        "explanation": "support and strengthen",
+        "example": "The case for the suspect's innocence was bolstered considerably by the fact that neither fingerprints nor DNA were found at the scene."
+    },
+    "flux": {
+        "type": "noun",
+        "explanation": "a state of uncertainty about what should be done (usually following some important event)",
+        "example": "Ever since Elvira resigned as the head of marketing, everything about our sales strategy has been in a state of flux."
+    },
+    "pejorative": {
+        "type": "adjective",
+        "explanation": "expressing disapproval (usu. refers to a term)",
+        "example": "Most psychologists object to the pejorative term \"shrink\", believing that they expand the human mind, not limit it."
+    },
+    "maverick": {
+        "type": "noun",
+        "explanation": "someone who exhibits great independence in thought and action",
+        "example": "Officer Kelly was a maverick, rarely following police protocols or adopting the conventions for speech common among his fellow officers."
+    },
+    "edifying": {
+        "type": "adjective",
+        "explanation": "enlightening or uplifting so as to encourage intellectual or moral improvement",
+        "example": "I recently read an article in the Times about whether good literature is edifying or not; specifically, does reading more make a person more moral."
+    }
+}

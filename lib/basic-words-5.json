@@ -1,0 +1,252 @@
+{
+    "pastoral": {
+        "type": "adjective",
+        "explanation": "relating to the countryside in a pleasant sense",
+        "example": "Those who imagine America's countryside as a pastoral region are often disappointed to learn that much of rural U.S. is filled with cornfields extending as far as the eye can see."
+    },
+    "connive": {
+        "type": "verb",
+        "explanation": "taking part in immoral and unethical plots",
+        "example": "With the help of the prince, the queen connived to overthrow the king."
+    },
+    "elude": {
+        "type": "verb",
+        "explanation": "escape understanding",
+        "example": "While some physics concepts might elude newbies, with a little grit and a good teacher, almost anyone can develop a deep understanding of the subject."
+    },
+    "tout": {
+        "type": "verb",
+        "explanation": "advertize in strongly positive terms; show off",
+        "example": "At the conference, the CEO touted the extraordinary success of his company's Research & Development division."
+    },
+    "smug": {
+        "type": "adjective",
+        "explanation": "marked by excessive complacency or self-satisfaction",
+        "example": "When Phil was dating the model, he had a smug attitude that annoyed his buddies."
+    },
+    "serene": {
+        "type": "adjective",
+        "explanation": "calm and peaceful",
+        "example": "I'd never seen him so serene; usually, he was a knot of stress and anxiety from hours of trading on the stock exchange."
+    },
+    "irk": {
+        "type": "verb",
+        "explanation": "irritate or vex",
+        "example": "My little sister has a way of irking and annoying me like no other person."
+    },
+    "travail": {
+        "type": "noun",
+        "explanation": "use of physical or mental energy; hard work; agony or anguish",
+        "example": "While they experienced nothing but travails in refinishing the kitchen, they completed the master bedroom in less than a weekend."
+    },
+    "steadfast": {
+        "type": "adjective",
+        "explanation": "marked by firm determination or resolution; not shakable",
+        "example": "A good captain needs to be steadfast, continuing to hold the wheel and stay the course even during the most violent storm."
+    },
+    "complacent": {
+        "type": "adjective",
+        "explanation": "contented to a fault with oneself or one's actions",
+        "example": "After the water polo team won their sixth championship, they became complacent and didn't even make it to the playoffs the next year."
+    },
+    "discord": {
+        "type": "noun",
+        "explanation": "lack of agreement or harmony",
+        "example": "Despite all their talented players, the team was filled with discord--some players refused to talk to others--and lost most of their games."
+    },
+    "exemplify": {
+        "type": "verb",
+        "explanation": "be characteristic of",
+        "example": "Mozart exemplified the poor, starving artist who dies young."
+    },
+    "embellish": {
+        "type": "verb",
+        "explanation": "make more attractive by adding ornament, colour, etc.; make more beautiful",
+        "example": "McCartney would write relatively straightforward lyrics, and Lennon would embellish them with puns and poetic images."
+    },
+    "retract": {
+        "type": "verb",
+        "explanation": "pull inward or towards a center; formally reject or disavow a formerly held belief, usually under pressure",
+        "example": "Email is wonderfully efficient, but once something awkward or damaging has been sent, there is no way to retract it."
+    },
+    "unseemly": {
+        "type": "adjective",
+        "explanation": "not in keeping with accepted standards of what is right or proper in polite society",
+        "example": "He acted in an unseemly manner, insulting the hostess and then speaking ill of her deceased husband."
+    },
+    "rash": {
+        "type": "adjective",
+        "explanation": "marked by defiant disregard for danger or consequences; imprudently incurring risk",
+        "example": "Although Bruce was able to make the delivery in time with a nighttime motorcycle ride in the rain, Susan criticized his actions as rash."
+    },
+    "unprecedented": {
+        "type": "adjective",
+        "explanation": "having never been done or known before; novel",
+        "example": "When America first created its national parks, the idea of setting aside the most beautiful land in a country was unprecedented in the history of mankind."
+    },
+    "leery": {
+        "type": "adjective",
+        "explanation": "openly distrustful and unwilling to confide",
+        "example": "Without checking his references and talking  to previous employers, I am leery of hiring the candidate."
+    },
+    "eke": {
+        "type": "verb",
+        "explanation": "To live off meager resources, to scrape by",
+        "example": "Stranded in a cabin over the winter, Terry was able to eke out an existence on canned food."
+    },
+    "tarnish": {
+        "type": "verb",
+        "explanation": "make dirty or spotty, as by exposure to air; also used metaphorically",
+        "example": "Pete Rose was one of the best baseball players of his generation, but his involvement with gambling on baseball games has tarnished his image in the eyes of many."
+    },
+    "impending": {
+        "type": "adjective",
+        "explanation": "close in time; about to occur",
+        "example": "The impending doom of our world has been discussed and debated for 2000 years\u2014maybe even longer."
+    },
+    "presumption": {
+        "type": "noun",
+        "explanation": "an assumption that is taken for granted",
+        "example": "When Mr. Baker found out the family car was gone, he acted under the presumption that his rebellious son had taken the car, calling his son's phone and yelling at him; only later did Mr. Baker realize that Mrs. Baker had simply gone out to get her nails done."
+    },
+    "aphoristic": {
+        "type": "adjective",
+        "explanation": "something that is concise and instructive of a general truth or principle",
+        "example": "Sometimes I can't stand Nathan because he tries to impress everyone by being aphoristic, but he just states the obvious."
+    },
+    "perturb": {
+        "type": "verb",
+        "explanation": "disturb in mind or cause to be worried or alarmed",
+        "example": "Now that Henry is recovering from a major illness, he no longer lets the little trivialities, such as late mail, perturb him."
+    },
+    "tact": {
+        "type": "noun",
+        "explanation": "consideration in dealing with others and avoiding giving offense",
+        "example": "In a tremendous display of tact, Shelly was able to maintain a strong friendship with Marcia, even though Marcia's husband, Frank, confessed to finding Shelly more attractive than Marcia."
+    },
+    "savvy": {
+        "type": "noun",
+        "explanation": "a perceptive understanding",
+        "example": "Although a great CEO, he did not have the political savvy to win the election."
+    },
+    "impregnable": {
+        "type": "adjective",
+        "explanation": "immune to attack; incapable of being tampered with",
+        "example": "As a child, Amy would build pillow castles and pretend they were impregnable fortresses."
+    },
+    "peevish": {
+        "type": "adjective",
+        "explanation": "easily irritated or annoyed",
+        "example": "Our office manager is peevish, so the rest of us tip-toe around him, hoping not to set off another one of his fits."
+    },
+    "brusquely": {
+        "type": "adverb",
+        "explanation": "in a blunt, direct manner",
+        "example": "Not one for social pleasantries, the Chief of Staff would brusquely ask his subordinates for anything he wanted, even coffee."
+    },
+    "exasperate": {
+        "type": "verb",
+        "explanation": "to irritate intensely",
+        "example": "As a child, I exasperated my mother with strings of never-ending questions."
+    },
+    "taxing": {
+        "type": "adjective",
+        "explanation": "use to the limit; exhaust",
+        "example": "The hike to the summit of Mt. Whitney was so taxing that I could barely speak or stand up."
+    },
+    "devolve": {
+        "type": "verb",
+        "explanation": "pass on or delegate to another",
+        "example": "The company was full of managers known for devolving tasks to lower management, but never doing much work themselves."
+    },
+    "placid": {
+        "type": "adjective",
+        "explanation": "not easily irritated",
+        "example": "Doug is normally placid, so we were all shocked to see him yelling at the television when the Mets lost the game."
+    },
+    "enmity": {
+        "type": "noun",
+        "explanation": "a state of deep-seated ill-will",
+        "example": "The rude remark Charles made toward Sarah yesterday was due to his illness, not due to any real enmity toward Sarah."
+    },
+    "diligent": {
+        "type": "adjective",
+        "explanation": "characterized by care and perseverance in carrying out tasks",
+        "example": "Michael was a diligent gardener, never leaving a leaf on the ground and regularly watering each plant."
+    },
+    "derogative": {
+        "type": "adjective",
+        "explanation": "expressed as worthless or in negative terms",
+        "example": "Never before have we seen a debate between two political candidates that was so derogative and filthy."
+    },
+    "maxim": {
+        "type": "noun",
+        "explanation": "a short saying expressing a general truth",
+        "example": "Johnson initially suggests that the secret to business can be summarized in a single maxim but then requires a 300-page book to explain exactly what he means."
+    },
+    "collusion": {
+        "type": "noun",
+        "explanation": "agreement on a secret plot",
+        "example": "Many have argued that Lee Harvey Oswald, JFK's assassin, was in collusion with other criminals; others maintain that Oswald was a lone gunman."
+    },
+    "reservation": {
+        "type": "noun",
+        "explanation": "an unstated doubt that prevents you from accepting something wholeheartedly",
+        "example": "I was initially excited by the idea of a trip to Washington, D.C.  but now that I have read about the high crime statistics there, I have some reservations."
+    },
+    "convoluted": {
+        "type": "adjective",
+        "explanation": "highly complex or intricate",
+        "example": "Instead of solving the math problem in three simple steps, Kumar used a convoluted solution requiring fifteen steps."
+    },
+    "credulity": {
+        "type": "noun",
+        "explanation": "tendency to believe readily",
+        "example": "Virginia's wide-eyed credulity as a five-year old was replaced by suspicion after she learned that Santa Claus didn't really exist."
+    },
+    "candidness": {
+        "type": "noun",
+        "explanation": "the quality of being honest and straightforward in attitude and speech",
+        "example": "Although I was unhappy that the relationship ended, I appreciated her candidness about why she was ready to move on from the relationship."
+    },
+    "destitute": {
+        "type": "adjective",
+        "explanation": "poor enough to need help from others",
+        "example": "Jean Valjean, is at first destitute, but through the grace of a priest, he makes something of his life."
+    },
+    "squander": {
+        "type": "verb",
+        "explanation": "spend thoughtlessly; waste time, money, or an opportunity",
+        "example": "Fearing his money would be squandered by his family, he gave all of it to charity when he died."
+    },
+    "quip": {
+        "type": "noun",
+        "explanation": "a witty saying or remark",
+        "example": "In one of the most famous quips about classical music, Mark Twain said: \"Wagner's music is better than it sounds.\""
+    },
+    "goad": {
+        "type": "verb",
+        "explanation": "urge on with unpleasant comments",
+        "example": "Doug did not want to enter the race, but Jim, through a steady stream of taunts, goaded him into signing up for it."
+    },
+    "ploy": {
+        "type": "noun",
+        "explanation": "a clever plan to turn a situation to one's advantage",
+        "example": "Dennis arranged an elaborate ploy, involving 14 different people lying for him in different situations, so that it could appear that he was meeting Mary completely by chance at the wedding reception."
+    },
+    "obstinate": {
+        "type": "adjective",
+        "explanation": "resistant to guidance or discipline; stubbornly persistent",
+        "example": "The coach suggested improvements Sarah might make on the balance beam, but she remained obstinate, unwilling to modify any of the habits that made her successful in the past."
+    },
+    "foible": {
+        "type": "noun",
+        "explanation": "a behavioral attribute that is distinctive and peculiar to an individual",
+        "example": "When their new roommate sat staring at an oak tree for an hour, Marcia thought it indicated a mental problem, but Jeff assured her it was a harmless foible."
+    },
+    "malevolent": {
+        "type": "adjective",
+        "explanation": "wishing or appearing to wish evil to others; arising from intense ill will or hatred",
+        "example": "Villains are known for their malevolent nature, oftentimes inflicting cruelty on others just for enjoyment."
+    }
+}

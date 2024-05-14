@@ -1,0 +1,257 @@
+{
+    "contingent": {
+        "type": "noun",
+        "explanation": "a gathering of persons representative of some larger group",
+        "example": "A small contingent of those loyal to the king have gathered around the castle to defend it."
+    },
+    "pragmatic": {
+        "type": "adjective",
+        "explanation": "guided by practical experience and observation rather than theory",
+        "example": "Rather than make a philosophical appeal to the Congressmen, the Speaker decided to take a far more pragmatic approach, making small side-deals that would add votes to his bill."
+    },
+    "indifference": {
+        "type": "noun",
+        "explanation": "the trait of seeming not to care",
+        "example": "In an effort to fight indifference, the president of the college introduced a new, stricter grading system."
+    },
+    "largess": {
+        "type": "noun",
+        "explanation": "extreme generosity and giving",
+        "example": "Uncle Frank was known for his largess, so his nephew was sad when he did not receive a present for his birthday."
+    },
+    "admonitory": {
+        "type": "adjective",
+        "explanation": "serving to warn; expressing reproof or reproach especially as a corrective",
+        "example": "At the assembly, the high school vice-principal gave the students an admonitory speech, warning them of the many risks and dangers of prom night."
+    },
+    "provincial": {
+        "type": "adjective",
+        "explanation": "characteristic of a limited perspective; not fashionable or sophisticated",
+        "example": "Maggie's enthusiasm about her high school teams seemed provincial to her college classmates, all of whom were following a nationally ranked college team."
+    },
+    "espouse": {
+        "type": "verb",
+        "explanation": "to adopt or support an idea or cause",
+        "example": "As a college student, Charlie espoused Marxism, growing his beard out and railing against the evils of the free-market."
+    },
+    "iconoclastic": {
+        "type": "adjective",
+        "explanation": "defying tradition or convention",
+        "example": "Jackson Pollock was an iconoclastic artist, totally breaking with tradition by splashing paint on a blank canvas."
+    },
+    "confound": {
+        "type": "verb",
+        "explanation": "to cause confusion",
+        "example": "Though Harry loved numbers, calculus confounded him."
+    },
+    "aberrant": {
+        "type": "adjective",
+        "explanation": "markedly different from an accepted norm",
+        "example": "When the financial director started screaming and throwing food at his co-workers, the police had to come in to deal with his aberrant behavior."
+    },
+    "bumbling": {
+        "type": "adjective",
+        "explanation": "lacking physical movement skills, especially with the hands",
+        "example": "Within a week of starting, the bumbling new waiter was unceremoniously fired."
+    },
+    "denigrate": {
+        "type": "verb",
+        "explanation": "charge falsely or with malicious intent; attack the good name and reputation of someone",
+        "example": "Count Rumford denigrated the new theory of heat, demonstrating that it was wholly inadequate to explain the observations."
+    },
+    "incorrigible": {
+        "type": "adjective",
+        "explanation": "impervious to correction by punishment",
+        "example": "Tom Sawyer seems like an incorrigible youth until Huck Finn enters the novel; even Sawyer can't match his fierce individual spirit."
+    },
+    "hackneyed": {
+        "type": "adjective",
+        "explanation": "lacking significance through having been overused",
+        "example": "Cheryl rolled her eyes when she heard the lecturer's hackneyed advice to \"be true to yourself.\""
+    },
+    "implausible": {
+        "type": "adjective",
+        "explanation": "describing a statement that is not believable",
+        "example": "The teacher found it implausible that the student was late to school because he had been kidnapped by outlaws on horseback."
+    },
+    "acerbic": {
+        "type": "adjective",
+        "explanation": "harsh in tone",
+        "example": "Most movie critics are acerbic towards summer blockbusters, often referring to them as garbage."
+    },
+    "eradicate": {
+        "type": "verb",
+        "explanation": "to completely destroy",
+        "example": "I tried eradicating the mosquitos in my apartment with a rolled up newspaper, but there were too many of them."
+    },
+    "exacting": {
+        "type": "adjective",
+        "explanation": "requiring and demanding accuracy",
+        "example": "Though his childhood piano teacher was so exacting, Max is thankful now, as a professional pianist."
+    },
+    "myopic": {
+        "type": "adjective",
+        "explanation": "lacking foresight or imagination",
+        "example": "The company ultimately went out of business because the myopic managers couldn't predict the changes in their industry."
+    },
+    "pundit": {
+        "type": "noun",
+        "explanation": "someone who has been admitted to membership in a scholarly field",
+        "example": "Steven Pinker's credentials are unquestioned as a pundit; he has taught at MIT and Stanford, teaches at Harvard, and has published a number of influential books on cognition, language, and psychology."
+    },
+    "burgeon": {
+        "type": "verb",
+        "explanation": "grow and flourish",
+        "example": "China's housing market is burgeoning, but some predict that the growth is merely a bubble and will burst much like the U.S. real estate bubble of 2008."
+    },
+    "opaque": {
+        "type": "adjective",
+        "explanation": "not clearly understood or expressed",
+        "example": "The meaning of the professor's new research was opaque to most people, so no one asked any questions."
+    },
+    "laudable": {
+        "type": "adjective",
+        "explanation": "worthy of high praise",
+        "example": "To say that Gandhi's actions were laudable is the greatest understatement; he overthrew an empire without violence."
+    },
+    "ingratiate": {
+        "type": "verb",
+        "explanation": "gain favor with somebody by deliberate efforts",
+        "example": "Even though Tom didn't like his new boss, he decided to ingratiate himself to her in order to advance his career."
+    },
+    "reconcile": {
+        "type": "verb",
+        "explanation": "make (one thing) compatible with (another)",
+        "example": "Peggy was unable to reconcile her kind friend Jane with the cruel and merciless character Jane played on television."
+    },
+    "apocryphal": {
+        "type": "adjective",
+        "explanation": "being of questionable authenticity",
+        "example": "The web is notorious for sandwiching apocryphal stories between actual news."
+    },
+    "expound": {
+        "type": "verb",
+        "explanation": "add details or explanation; clarify the meaning; state in depth",
+        "example": "The CEO refused to expound on the decision to merge our department with another one, and so I quit."
+    },
+    "tortuous": {
+        "type": "adjective",
+        "explanation": "marked by repeated turns and bends; not straightforward",
+        "example": "Because the logic behind McMahon's side of the debate was so tortuous, his audience came out either completely confused or, worse, feeling they'd been tricked."
+    },
+    "construe": {
+        "type": "verb",
+        "explanation": "interpreted in a particular way",
+        "example": "The author's inability to take a side on the issue was construed by both his opponents and supporters as a sign of weakness."
+    },
+    "petulant": {
+        "type": "adjective",
+        "explanation": "easily irritated or annoyed",
+        "example": "Although the three year old was often described as mature for his age, he was petulant and whiny whenever his father forgot to remove the crust from his sandwiches."
+    },
+    "decorum": {
+        "type": "noun",
+        "explanation": "propriety in manners and conduct",
+        "example": "\"You will obey the rules of decorum for this courtroom or spend the night in a jail cell,\" said the judge to the prosecutor."
+    },
+    "exalt": {
+        "type": "verb",
+        "explanation": "praise or glorify",
+        "example": "The teenagers exalted the rock star, covering their bedrooms with posters of him."
+    },
+    "idiosyncrasy": {
+        "type": "noun",
+        "explanation": "a behavioral attribute that is distinctive and peculiar to an individual",
+        "example": "Peggy's numerous idiosyncrasies include wearing mismatched shoes, laughing loudly to herself, and owning a pet aardvark."
+    },
+    "ostentatious": {
+        "type": "adjective",
+        "explanation": "intended to attract notice and impress others; tawdry or vulgar",
+        "example": "Matt wanted to buy stone lions for front of the house, but Cynthia convinced him that such a display would be too ostentatious for a modest house in an unassuming neighborhood."
+    },
+    "soporific": {
+        "type": "adjective",
+        "explanation": "inducing mental lethargy; sleep inducing",
+        "example": "Although the professor is brilliant, his bland monotone gives his lectures a soporific effect."
+    },
+    "abstruse": {
+        "type": "adjective",
+        "explanation": "difficult to understand; incomprehensible",
+        "example": "Physics textbooks can seem so abstruse to the uninitiated that readers feel as though they are looking at hieroglyphics."
+    },
+    "refute": {
+        "type": "verb",
+        "explanation": "prove to be false or incorrect",
+        "example": "No one could refute his theories or propositions, and that is why he was esteemed by all his colleagues in the philosophy department."
+    },
+    "intransigent": {
+        "type": "adjective",
+        "explanation": "unwilling to change one's beliefs or course of action",
+        "example": "Despite many calls for mercy, the judge remained intransigent, citing strict legal precedence."
+    },
+    "adamant": {
+        "type": "adjective",
+        "explanation": "refusing to change one's mind",
+        "example": "Civil rights icon Rosa Parks will forever be remembered for adamantly refusing to give up her seat on a public bus--even after the bus driver insisted, she remained rooted in place."
+    },
+    "implacable": {
+        "type": "adjective",
+        "explanation": "incapable of making less angry or hostile",
+        "example": "Win or lose, the coach was always implacable, never giving the athletes an easy practice or a break."
+    },
+    "magoosh-practice-exams": {
+        "type": "noun",
+        "explanation": "Determine how you'd do on an actual GRE exam by taking a practice exam.  Learn more at http",
+        "example": "Magoosh practice exams enabled Margarette to get a sense of what taking the GRE on test-day would be like."
+    },
+    "unscrupulous": {
+        "type": "adjective",
+        "explanation": "without scruples or principles",
+        "example": "In the courtroom, the lawyer was unscrupulous, using every manner of deceit and manipulation to secure a victory for himself."
+    },
+    "temperance": {
+        "type": "noun",
+        "explanation": "the trait of avoiding excesses",
+        "example": "Welles wasn't known for his temperance--he usually ate enough for two and drank enough for three."
+    },
+    "blatant": {
+        "type": "adjective",
+        "explanation": "without any attempt at concealment; completely obvious",
+        "example": "Allen was often punished in school for blatantly disrespecting teachers."
+    },
+    "copious": {
+        "type": "adjective",
+        "explanation": "in abundant supply",
+        "example": "In midsummer, there are copious popsicle stands at the beach; in the winter, there are none."
+    },
+    "pedantic": {
+        "type": "adjective",
+        "explanation": "marked by a narrow focus on or display of learning especially its trivial aspects",
+        "example": "Professor Thompson was regarded as an expert in his field, but his lectures were utterly pedantic, focused on rigorous details of the most trivial conventions in the field."
+    },
+    "discrete": {
+        "type": "adjective",
+        "explanation": "constituting a separate entity or part",
+        "example": "What was once known as Czechoslovakia has since split into two discrete, independent nations."
+    },
+    "forthcoming": {
+        "type": "adjective",
+        "explanation": "available when required or as promised",
+        "example": "The President announced that the senators were about to reach a compromise, and that he was eager to read the forthcoming details of the bill."
+    },
+    "underscore": {
+        "type": "verb",
+        "explanation": "give extra weight to (a communication)",
+        "example": "While the hiking instructor agreed that carrying a first aid kit could be a good idea under certain circumstances, he underscored the importance of carrying enough water."
+    },
+    "ignoble": {
+        "type": "adjective",
+        "explanation": "dishonorable",
+        "example": "In 1919, the World Series was rigged--an ignoble act which baseball took decades to recover from."
+    },
+    "exonerate": {
+        "type": "verb",
+        "explanation": "pronounce not guilty of criminal charges",
+        "example": "The document clearly indicated that Nick was out of the state at the time of the crime, and so served to exonerate him of any charges."
+    }
+}

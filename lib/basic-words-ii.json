@@ -1,0 +1,252 @@
+{
+    "animosity": {
+        "type": "noun",
+        "explanation": "intense hostility",
+        "example": "The governor\u2019s animosity toward his rival was only inflamed when the latter spread false lies regarding the governor\u2019s first term."
+    },
+    "moment": {
+        "type": "noun",
+        "explanation": "significant and important value",
+        "example": "Despite the initial hullabaloo, the play was of no great moment in Hampton\u2019s writing career, and within a few years the public quickly forgot his foray into theater arts."
+    },
+    "aboveboard": {
+        "type": "adjective",
+        "explanation": "open and honest",
+        "example": "The mayor, despite his avuncular face plastered about the city, was hardly aboveboard \u2013 some concluded that it was his ingratiating smile that allowed him to engage in corrupt behavior and get\r\naway with it."
+    },
+    "beatific": {
+        "type": "adjective",
+        "explanation": "blissfully happy",
+        "example": "Often we imagine all monks to wear the beatific smile of the Buddha, but, like any of us, a monk can have a bad day and not look very happy."
+    },
+    "stem": {
+        "type": "verb",
+        "explanation": "to hold back or limit the flow or growth of something",
+        "example": "To stem the tide of applications, the prestigious Ivy requires that each applicant score at least 330 on the Revised GRE."
+    },
+    "paucity": {
+        "type": "noun",
+        "explanation": "a lack of something",
+        "example": "There is a paucity of jobs hiring today that require menial skills, since most such jobs have either been automated or outsourced."
+    },
+    "becoming": {
+        "type": "adjective",
+        "explanation": "appropriate, and matches nicely",
+        "example": "Her dress was becoming and made her look even more beautiful."
+    },
+    "apex": {
+        "type": "noun",
+        "explanation": "the highest point",
+        "example": "The Ivy League is considered the apex of the higher education system."
+    },
+    "corroborate": {
+        "type": "verb",
+        "explanation": "to confirm or lend support to (usually an idea or claim)",
+        "example": "Her claim that frog populations were falling precipitously in Central America was corroborated by locals, who reported that many species of frogs had seemingly vanished overnight."
+    },
+    "heyday": {
+        "type": "noun",
+        "explanation": "the pinnacle or top of a time period or career",
+        "example": "During the heyday of Prohibition, bootlegging had become such a lucrative business that many who had been opposed to the 18th Amendment began to fear it would be repealed."
+    },
+    "fleece": {
+        "type": "verb",
+        "explanation": "to deceive",
+        "example": "Many people have been fleeced by Internet scams and never received their money back."
+    },
+    "junta": {
+        "type": "noun",
+        "explanation": "an aggressive takeover by a group (usually military); the group that executes such a takeover",
+        "example": "As dangerous of a threat as North Korea is, some analysts believe that were a junta suddenly to gain power, it could be even more unpredictable and bellicose than the current leadership"
+    },
+    "disparate": {
+        "type": "adjective",
+        "explanation": "two things are fundamentally different",
+        "example": "With the advent of machines capable of looking inside the brain, fields as disparate as religion and biology have been brought together by scientists trying to understand what happens in the brain when people have a religious experience."
+    },
+    "flush": {
+        "type": "adjective",
+        "explanation": "to be in abundance",
+        "example": "The exam's passage is flush with difficult words, words that you may have learned only yesterday."
+    },
+    "catalyst": {
+        "type": "noun",
+        "explanation": "something that speeds up an event",
+        "example": "Rosa Parks's refusal to give up her bus seat acted as a catalyst for the Civil Rights Movement, setting into motion historic changes for African-Americans."
+    },
+    "start": {
+        "type": "verb",
+        "explanation": "to suddenly move in a particular direction",
+        "example": "All alone in the mansion, Henrietta started when she heard a sound."
+    },
+    "checkered": {
+        "type": "adjective",
+        "explanation": "marked by disreputable or unfortunate happenings",
+        "example": "One by one, the presidential candidates dropped out of the race, their respective checkered pasts\u2014 from embezzlement to infidelity\u2014sabotaging their campaigns."
+    },
+    "sanguine": {
+        "type": "adjective",
+        "explanation": "cheerful; optimistic",
+        "example": "With the prospect of having to learn 3,000 words during the course of the summer, Paul was anything but sanguine."
+    },
+    "replete": {
+        "type": "adjective",
+        "explanation": "completely stocked or furnished with something",
+        "example": "Only weeks after the hurricane made landfall, the local supermarket shelves were replete with goods, so quick was the disaster relief response."
+    },
+    "bellicose": {
+        "type": "adjective",
+        "explanation": "warlike; inclined to quarrel",
+        "example": "Known for their bellicose ways, the Spartans were once the most feared people from Peloponnesus to Persia."
+    },
+    "misanthrope": {
+        "type": "noun",
+        "explanation": "a hater of mankind",
+        "example": "Kevin is such a misanthrope that he refused to attend the Christmas party, claiming that everyone's happiness was \"fake\" and \"annoying.\""
+    },
+    "desecrate": {
+        "type": "verb",
+        "explanation": "to willfully violate or destroy a sacred place",
+        "example": "After desecrating the pharaoh's tomb, the archaeologist soon fell victim to a horrible illness."
+    },
+    "hodgepodge": {
+        "type": "noun",
+        "explanation": "a confusing mixture or jumble",
+        "example": "Those in attendance represented a hodgepodge of the city's denizens: chimney sweepers could be seen sitting elbow to elbow with stockbrokers."
+    },
+    "immaterial": {
+        "type": "adjective",
+        "explanation": "not relevant",
+        "example": "The judge found the defendant\u2019s comments immaterial to the trial, and summarily dismissed him from the witness stand."
+    },
+    "chauvinist": {
+        "type": "noun",
+        "explanation": "a person who believes in the superiority of their group",
+        "example": "The chauvinist lives on both sides of the political spectrum, outright shunning anybody whose ideas are not consistent with his own."
+    },
+    "ferret": {
+        "type": "verb",
+        "explanation": "to search for something persistently",
+        "example": "Ever the resourceful lexicographer, Fenton was able to ferret out the word origin of highly obscure words."
+    },
+    "imponderable": {
+        "type": "adjective",
+        "explanation": "impossible to estimate or figure out",
+        "example": "According to many lawmakers, the huge variety of factors affecting society make devising an efficient healthcare system an imponderable task."
+    },
+    "vicarious": {
+        "type": "adjective",
+        "explanation": "felt or undergone as if one were taking part in the experience or feelings of another",
+        "example": "The advent of twitter is a celebrity stalker's dream, as he or she can experience\u2014through hundreds of intimate \"tweets\"\u2014the vicarious thrill of living the day-to-day life of a famous person."
+    },
+    "avarice": {
+        "type": "noun",
+        "explanation": "greed (one of the seven deadly sins)",
+        "example": "The Spanish conquistadors were known for their avarice, plundering Incan land and stealing Incan gold."
+    },
+    "pittance": {
+        "type": "noun",
+        "explanation": "a small amount (of money)",
+        "example": "Vinny\u2019s uncle beamed smugly about how he\u2019d offered his nephew fifty dollars for his Harvard tuition; even twice the amount would have been a mere pittance."
+    },
+    "cogent": {
+        "type": "adjective",
+        "explanation": "clear and persuasive",
+        "example": "A cogent argument will change the minds of even the most skeptical audience."
+    },
+    "check": {
+        "type": "verb",
+        "explanation": "to limit (usually modifying the growth of something)",
+        "example": "Deserted for six months, the property began to look more like a jungle and less like a residence\u2014weeds grew unchecked in the front yard"
+    },
+    "cardinal": {
+        "type": "adjective",
+        "explanation": "of primary importance; fundamental",
+        "example": "Most cultures consider gambling a cardinal sin and thus have outlawed its practice."
+    },
+    "wax": {
+        "type": "verb",
+        "explanation": "to gradually increase in size or intensity",
+        "example": "Her enthusiasm for the diva\u2019s new album only waxed with each song; by the end of the album, it was her favorite CD yet."
+    },
+    "melee": {
+        "type": "noun",
+        "explanation": "a wild, confusing fight or struggle",
+        "example": "After enduring daily taunts about my name, I became enraged and pummeled the schoolyard bully and his sycophantic friends in a brutal melee."
+    },
+    "virago": {
+        "type": "noun",
+        "explanation": "an ill-tempered or violent woman",
+        "example": "Poor Billy was the victim of the virago\u2019s invective\u2014she railed at him for a good 30-minutes about how he is the scum of the earth for speaking loudly on his cellphone in public."
+    },
+    "pugnacious": {
+        "type": "adjective",
+        "explanation": "eager to fight or argue; verbally combative",
+        "example": "The comedian told one flat joke after another, and when the audience started booing, he pugnaciously spat back at them, \u201cHey, you think this is easy \u2013 why don\u2019t you buffoons give it a shot?\u201d"
+    },
+    "raft": {
+        "type": "noun",
+        "explanation": "a large number of something",
+        "example": "Despite a raft of city ordinances passed by an overzealous council, noise pollution continued unabated in the megalopolis."
+    },
+    "preemptive": {
+        "type": "adjective",
+        "explanation": "done before someone else can do it",
+        "example": "Just as Martha was about to take the only cookie left on the table, Noah preemptively swiped it."
+    },
+    "scintillating": {
+        "type": "adjective",
+        "explanation": "describes someone who is brilliant and lively",
+        "example": "Richard Feynman was renowned for his scintillating lectures\u2014the arcana of quantum physics was made lucid as he wrote animatedly on the chalkboard."
+    },
+    "badger": {
+        "type": "verb",
+        "explanation": "to pester",
+        "example": "Badgered by his parents to find a job, the 30-year-old loafer instead joined a gang of itinerant musicians."
+    },
+    "cadaverous": {
+        "type": "adjective",
+        "explanation": "emaciated; gaunt",
+        "example": "Some actors take challenging roles in which they have to lose so much weight that they appear cadaverous."
+    },
+    "contrite": {
+        "type": "adjective",
+        "explanation": "to be remorseful",
+        "example": "Though he stole his little sister\u2019s licorice stick with malevolent glee, Chucky soon became contrite when his sister wouldn't stop crying."
+    },
+    "amok": {
+        "type": "adverb",
+        "explanation": "in a frenzied or uncontrolled state",
+        "example": "Wherever the bowl haircut teen-idol went, his legions of screaming fans ran through the streets amok, hoping for a glance at his boyish face."
+    },
+    "extenuating": {
+        "type": "adjective",
+        "explanation": "making less guilty or more forgivable",
+        "example": "The jury was hardly moved by the man\u2019s plea that his loneliness was an extenuating factor in his crime of dognapping a prized pooch."
+    },
+    "errant": {
+        "type": "adjective",
+        "explanation": "to be wandering; not sticking to a circumscribed path",
+        "example": "Unlike his peers, who spent their hours studying in the library, Matthew preferred errant walks through the university campus."
+    },
+    "lassitude": {
+        "type": "noun",
+        "explanation": "extreme tiredness, either mental or physical",
+        "example": "Upon finishing a 6-hour standardized exam, Dahlia emerged from the testing center overcome by lassitude."
+    },
+    "unconscionable": {
+        "type": "adjective",
+        "explanation": "unreasonable; unscrupulous; excessive",
+        "example": "The lawyer\u2019s demands were so unconscionable that rather than pay an exorbitant sum or submit himself to any other inconveniences, the defendant decided to find a new lawyer."
+    },
+    "sanctimonious": {
+        "type": "adjective",
+        "explanation": "making a show of being pious; holier-than-thou",
+        "example": "Even during the quiet sanctity of evening prayer, she held her chin high, a sanctimonious sneer forming on her face as she eyed those who were attending church for the first time."
+    },
+    "exhort": {
+        "type": "verb",
+        "explanation": "to strongly urge on; encourage",
+        "example": "Nelson\u2019s parents exhorted him to study medicine, urging him to choose a respectable profession; intransigent, Nelson left home to become a graffiti artist."
+    }
+}

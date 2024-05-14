@@ -1,0 +1,257 @@
+{
+    "ascetic": {
+        "type": "adjective",
+        "explanation": "practicing self-denial",
+        "example": "His ascetic life is the main reason he inspired so many followers, especially since he gave up wealth and power to live in poverty."
+    },
+    "ameliorate": {
+        "type": "verb",
+        "explanation": "make something bad better",
+        "example": "\"Three Cups of Tea\" tells the story of western man who hopes to ameliorate poverty and the lack of education in Afghanistan."
+    },
+    "treacherous": {
+        "type": "adjective",
+        "explanation": "tending to betray",
+        "example": "Even though Jesse James was an outlaw, his killer, Robert Ford, is remembered more for his treacherous actions than for eliminating a criminal and murderer."
+    },
+    "derivative": {
+        "type": "adjective",
+        "explanation": "not original but drawing strongly on something already in existence, especially in reference to a creative product (e.g. music, writing, poetry etc.).",
+        "example": "Because the movies were utterly derivative of other popular movies, they did well at the box office."
+    },
+    "spurious": {
+        "type": "adjective",
+        "explanation": "plausible but false",
+        "example": "When listening to a politician speak, it is hard to distinguish the spurious claims from the authentic ones."
+    },
+    "frustrate": {
+        "type": "verb",
+        "explanation": "hinder or prevent (the efforts, plans, or desires) of",
+        "example": "I thought I would finish writing the paper by lunchtime, but a number of urgent interruptions served to frustrate my plan."
+    },
+    "eclectic": {
+        "type": "adjective",
+        "explanation": "comprised of a variety of styles",
+        "example": "Malala was known for her eclectic tastes in music, one moment dancing to disco the next \"air conducting\" along to Beethoven's 9th symphony."
+    },
+    "contrive": {
+        "type": "verb",
+        "explanation": "to pull off a plan or scheme, usually through skill or trickery",
+        "example": "Despite a low GPA, he contrived to get into college, going so far as to write his own glowing letters of recommendation."
+    },
+    "languid": {
+        "type": "adjective",
+        "explanation": "not inclined towards physical exertion or effort; slow and relaxed",
+        "example": "As the sun beat down and the temperature climbed higher, we spent a languid week lying around the house."
+    },
+    "apathy": {
+        "type": "noun",
+        "explanation": "an absence of emotion or enthusiasm",
+        "example": "Widespread apathy among voters led to a very small turnout on election day."
+    },
+    "supplant": {
+        "type": "verb",
+        "explanation": "take the place or move into the position of",
+        "example": "For many, a cell phone has supplanted a traditional phone; in fact, most 20-somethings don't even have a traditional phone anymore."
+    },
+    "panache": {
+        "type": "noun",
+        "explanation": "distinctive and showy elegance",
+        "example": "Jim, with his typical panache, came to the wedding reception with a top hat and cane."
+    },
+    "disaffected": {
+        "type": "adjective",
+        "explanation": "discontented as toward authority",
+        "example": "After watching his superior take rations from the soldiers, he quickly became disaffected and rebelled."
+    },
+    "denote": {
+        "type": "verb",
+        "explanation": "be a sign or indication of; have as a meaning",
+        "example": "Even if the text is not visible, the red octagon denotes \"stop\" to all motorists in America."
+    },
+    "heretic": {
+        "type": "noun",
+        "explanation": "a person who holds unorthodox opinions in any field (not merely religion)",
+        "example": "Though everybody at the gym told Mikey to do cardio before weights, Mikey was a heretic and always did the reverse."
+    },
+    "quotidian": {
+        "type": "adjective",
+        "explanation": "found in the ordinary course of events",
+        "example": "Phil gets so involved thinking about Aristotle's arguments that he totally forgets quotidian concerns, such as exercising and eating regularly."
+    },
+    "travesty": {
+        "type": "noun",
+        "explanation": "an absurd presentation of something; a mockery",
+        "example": "What I expected to be an intelligent, nuanced historical documentary turned out to be a poorly-produced travesty of the form."
+    },
+    "juxtapose": {
+        "type": "verb",
+        "explanation": "place side by side for contrast",
+        "example": "The appeal of her paintings comes from a classical style which is juxtaposed with modern themes."
+    },
+    "circumvent": {
+        "type": "verb",
+        "explanation": "cleverly find a way out of one's duties or obligations",
+        "example": "One way of circumventing the GRE is to apply to a grad school that does not require GRE scores."
+    },
+    "tantamount": {
+        "type": "adjective",
+        "explanation": "being essentially equal to something",
+        "example": "In many situations, remaining silent is tantamount to admitting guilt, so speak to prove your innocence."
+    },
+    "immutable": {
+        "type": "adjective",
+        "explanation": "not able to be changed",
+        "example": "Taxes are one of the immutable laws of the land, so there is no use arguing about paying them."
+    },
+    "derive": {
+        "type": "verb",
+        "explanation": "come from; be connected by a relationship of blood, for example",
+        "example": "Many words in the English language are derived from Latin, including the word \"derive.\""
+    },
+    "tenacious": {
+        "type": "adjective",
+        "explanation": "stubbornly unyielding",
+        "example": "Even the most tenacious advocates for gun ownership must admit some of the dangers that firearms present."
+    },
+    "refractory": {
+        "type": "adjective",
+        "explanation": "stubbornly resistant to authority or control",
+        "example": "Used to studious high school students, Martha was unprepared for the refractory Kindergarteners who neither sat still nor listened to a single word she said."
+    },
+    "staunch": {
+        "type": "adjective",
+        "explanation": "firm and dependable especially in loyalty",
+        "example": "No longer a staunch supporter of the movement, Todd now will openly question whether its goals are worthwhile."
+    },
+    "unequivocal": {
+        "type": "adjective",
+        "explanation": "admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion",
+        "example": "The President's first statement on the subject was vague and open to competing interpretations, so when he spoke to Congress about the same subject later, he was careful to make his position completely unequivocal."
+    },
+    "avaricious": {
+        "type": "adjective",
+        "explanation": "excessively greedy",
+        "example": "Since avaricious desire is similar to gluttony or lust--sins of excess--it was listed as one of the seven deadly sins by the Catholic church."
+    },
+    "belligerent": {
+        "type": "adjective",
+        "explanation": "characteristic of one eager to fight",
+        "example": "Tom said that he was arguing the matter purely for philosophical reasons, but his belligerent tone indicated an underlying anger about the issue."
+    },
+    "mollify": {
+        "type": "verb",
+        "explanation": "to make someone who is angry less angry; placate",
+        "example": "In the morning, Janine was unable to mollify Harry, if he happened to become angry, unless he'd had his cup of coffee."
+    },
+    "precocious": {
+        "type": "adjective",
+        "explanation": "characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude)",
+        "example": "Though only seven years old, she was a precocious chess prodigy, able to beat players twice her age."
+    },
+    "eminent": {
+        "type": "adjective",
+        "explanation": "standing above others in quality or position",
+        "example": "Shakespeare is an eminent author in the English language, but I find his writing uninteresting and melodramatic."
+    },
+    "abstain": {
+        "type": "verb",
+        "explanation": "choose not to consume or take part in (particularly something enjoyable)",
+        "example": "Considered a health nut, Jessica abstained from anything containing sugar--even chocolate."
+    },
+    "magnanimous": {
+        "type": "adjective",
+        "explanation": "noble and generous in spirit, especially towards a rival or someone less powerful",
+        "example": "He was a great sportsman: in defeat he was complimentary and in victory he was magnanimous."
+    },
+    "jubilant": {
+        "type": "adjective",
+        "explanation": "full of high-spirited delight because of triumph or success",
+        "example": "My hardwork paid off, and I was jubilant to receive a perfect score on the GRE."
+    },
+    "guileless": {
+        "type": "adjective",
+        "explanation": "free of deceit",
+        "example": "At first I thought my niece was guileless, but I then found myself buying her ice cream every time we passed a shop."
+    },
+    "ephemeral": {
+        "type": "adjective",
+        "explanation": "lasting a very short time",
+        "example": "The lifespan of a mayfly is ephemeral, lasting from a few hours to a couple of days."
+    },
+    "rudimentary": {
+        "type": "adjective",
+        "explanation": "being in the earliest stages of development; being or involving basic facts or principles",
+        "example": "I would love to be able to present a fully polished proposal to the board, but right now, our plans for the product are still in the most rudimentary stages."
+    },
+    "incongruous": {
+        "type": "adjective",
+        "explanation": "lacking in harmony or compatibility or appropriateness",
+        "example": "The vast economic inequality of modern society is incongruous with America's ideals."
+    },
+    "elucidate": {
+        "type": "verb",
+        "explanation": "make clearer and easier to understand",
+        "example": "Youtube is great place to learn just about anything--an expert elucidates finer points so that even a complete novice can learn."
+    },
+    "forlorn": {
+        "type": "adjective",
+        "explanation": "marked by or showing hopelessness",
+        "example": "After her third pet dog died, Marcia was simply forlorn: this time even the possibility of buying a new dog no longer held any joy."
+    },
+    "jingoism": {
+        "type": "noun",
+        "explanation": "fanatical patriotism",
+        "example": "North Korea maintains intense control over its population through a combination of jingoism and cult of personality."
+    },
+    "fallacious": {
+        "type": "adjective",
+        "explanation": "of a belief that is based on faulty reasoning",
+        "example": "The widespread belief that Inuit have forty different words for \"snow\" has been considered fallacious, based on a single report by Anthropologist Franz Boas."
+    },
+    "vehement": {
+        "type": "adjective",
+        "explanation": "marked by extreme intensity of emotions or convictions",
+        "example": "While the other employees responded to the bad news in a measured way, Andrew responded in a vehement manner, tipping over his desk and shouting at the top of his lungs."
+    },
+    "magoosh-free-trial": {
+        "type": "noun",
+        "explanation": "A sample of lesson videos and practice questions to see if Magoosh is right for you.  Learn more at http",
+        "example": "Rachel tried the Magoosh free trial to determine if the premium Magoosh service was worth purchasing."
+    },
+    "haughty": {
+        "type": "adjective",
+        "explanation": "having or showing arrogant superiority to and disdain of those one views as unworthy",
+        "example": "The haughty manager didn't believe that any of his subordinates could ever have an insight as brilliant as his own."
+    },
+    "subsume": {
+        "type": "verb",
+        "explanation": "contain or include",
+        "example": "The rogue wave quickly subsumed the pier and boardwalk, destroying everything in its path."
+    },
+    "insidious": {
+        "type": "adjective",
+        "explanation": "working in a subtle but destructive way",
+        "example": "Plaque is insidious: we cannot see it, but each day it eats away at our enamel, causing cavities and other dental problems."
+    },
+    "vilify": {
+        "type": "verb",
+        "explanation": "spread negative information about",
+        "example": "Todd was noble after the divorce, choosing to say only complimentary things about Barbara, but Barbara did not hesitate to vilify Todd."
+    },
+    "delineate": {
+        "type": "verb",
+        "explanation": "describe in detail",
+        "example": "After a brief summary of proper swimming technique, the coach delineated the specifics of each stroke, spending 30 minutes alone on the backstroke."
+    },
+    "itinerant": {
+        "type": "adjective",
+        "explanation": "traveling from place to place to work",
+        "example": "Doctors used to be itinerant, traveling between patients' homes."
+    },
+    "negligible": {
+        "type": "adjective",
+        "explanation": "so small as to be meaningless; insignificant",
+        "example": "The GRE tests cumulative knowledge, so if you cram the night before it is, at best, likely to only have a negligible impact on your score."
+    }
+}
