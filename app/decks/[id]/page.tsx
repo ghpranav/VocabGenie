@@ -52,7 +52,7 @@ export default async function DecksPage({ params }: Readonly<DecksPageProps>) {
             explanation={wordData[randomWord].explanation}
             example={wordData[randomWord].example}
           />
-          <ProgressStatus />
+          {/* <ProgressStatus /> */}
         </div>
       </div>
     </div>
