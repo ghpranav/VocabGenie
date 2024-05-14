@@ -1,6 +1,6 @@
 export default function LoadingDecksPage() {
   return (
-    <div className="min-h-screen flex justify-center items-center p-2">
+    <div className="flex-grow flex justify-center items-center p-2">
       <div className="bg-white rounded-lg shadow-lg max-w-md w-full p-6">
         <div className="flex flex-col">
           <div className="mb-6">

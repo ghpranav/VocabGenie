@@ -1,8 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# VocabGenie
+
+An AI-powered vocabulary flashcards web app that helps you learn new words and their meanings.
+
+![home](/public/screenshot-home.png)
+
+![flashcards-1](/public/screenshot-flash-card-1.png)
+
+![flashcards-2](/public/screenshot-flash-card-2.png)
 
 ## Getting Started
 
-First, run the development server:
+First, fill out secrets:
+
+```bash
+cp .env.local.example .env.local
+```
+
+Then, fill out the `GROQ_API_KEY` in the `.env.local` file.
+
+Run the development server:
 
 ```bash
 npm run dev
@@ -20,17 +36,8 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Deploy
 
-To learn more about Next.js, take a look at the following resources:
+Host your own version on Vercel, the creators of Next.js. Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fghpranav%2FVocabGenie&env=GROQ_API_KEY&project-name=vocab-genie&repository-name=vocab-genie&demo-title=Vocab%20Genie&demo-description=An%20AI-powered%20vocabulary%20flashcards%20web%20app%20that%20helps%20you%20learn%20new%20words%20and%20their%20meanings.&demo-url=https%3A%2F%2Fvocabgenie.vercel.app%2F)
