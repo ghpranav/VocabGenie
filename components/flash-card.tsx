@@ -15,10 +15,11 @@ export interface FlashCardProps {
   explanation: string;
   example: string;
   status?: "reviewing" | "learning" | "mastered";
+  updateProgress: (word: string, userKnows: boolean) => void;
 }
 
 export default function FlashCard(params: Readonly<FlashCardProps>) {
-  const { word, type, explanation, example, status } = params;
+  const { word, type, explanation, example, status, updateProgress } = params;
 
   const router = useRouter();
 
@@ -32,10 +33,11 @@ export default function FlashCard(params: Readonly<FlashCardProps>) {
     setShowDefinition(!showDefinition);
   };
 
-  const nextWord = () => {
+  const nextWord = (userKnows: boolean) => {
     setPrompt("");
     setScore(null);
     setResponse(null);
+    updateProgress(word, userKnows);
     toggleDefinition();
     router.refresh();
   };
@@ -158,12 +160,20 @@ export default function FlashCard(params: Readonly<FlashCardProps>) {
                 </div>
               </div>
             )}
-            <Button
-              className="bg-gradient-to-r from-slate-600 to-black text-white px-4 py-2 rounded-md hover:from-slate-700 hover:to-black animate-gradient-x transition-all duration-300 ease-in-out shadow-lg hover:scale-105 hover:shadow-xl"
-              onClick={nextWord}
-            >
-              Next Word
-            </Button>
+            <div className="flex justify-center space-x-4 mt-4">
+              <Button
+                className="bg-gradient-to-r from-[#22C55E] to-[#16A34A] text-white px-4 py-2 rounded-md animate-gradient-x transition-all duration-300 ease-in-out shadow-lg hover:scale-105 hover:shadow-xl"
+                onClick={() => nextWord(true)}
+              >
+                I know the word
+              </Button>
+              <Button
+                className="bg-gradient-to-r from-[#F43F5E] to-[#E11D48] text-white px-4 py-2 rounded-md animate-gradient-x transition-all duration-300 ease-in-out shadow-lg hover:scale-105 hover:shadow-xl"
+                onClick={() => nextWord(false)}
+              >
+                I don&apos;t know the word
+              </Button>
+            </div>
           </div>
         )}
       </div>
