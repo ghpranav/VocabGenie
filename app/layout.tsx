@@ -21,14 +21,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${inter.className} antialiased bg-gradient-to-r from-black to-slate-900`}
-      >
-        <ThemeProvider attribute="class" defaultTheme="dark">
+      <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+        <body
+          className={`${inter.className} antialiased bg-gradient-to-r from-slate-50 to-slate-100 dark:from-black dark:to-slate-900 transition-colors`}
+        >
           <Navbar />
           {children}
-        </ThemeProvider>
-      </body>
+        </body>
+      </ThemeProvider>
     </html>
   );
 }

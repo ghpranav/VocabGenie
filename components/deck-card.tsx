@@ -31,7 +31,7 @@ export default function DeckCard(props: Readonly<DeckCardProps>) {
         )}
       >
         <div className="relative h-40 sm:h-48 md:h-56 lg:h-64 overflow-hidden">
-          <div className="absolute inset-0 bg-gradient-to-t from-gray-900/80 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-t dark:from-gray-900/80 dark:to-transparent from-gray-700/80 to-transparent" />
           <div className="absolute bottom-4 left-4 w-5/6 text-white">
             <h2 className="text-2xl font-bold mb-2">{title}</h2>
             <div className="w-full bg-gray-300 dark:bg-gray-800 rounded-full h-2">

@@ -83,7 +83,7 @@ export default function FlashCard(params: Readonly<FlashCardProps>) {
             <Badge
               className={clsx(
                 {
-                  "absolute top-2 right-2 text-gray-600 rounded-md uppercase":
+                  "absolute top-2 right-2 text-gray-600 rounded-md uppercase dark:border-transparent":
                     true,
                 },
                 {
@@ -107,7 +107,7 @@ export default function FlashCard(params: Readonly<FlashCardProps>) {
                   <div className="relative">
                     <Input
                       value={prompt}
-                      className="w-full px-4 py-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-black focus:border-transparent hover:ring-2 hover:ring-black transition-all duration-300 ease-in-out shadow-lg hover:shadow-xl"
+                      className="w-full px-4 py-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-black focus:border-transparent hover:ring-2 hover:ring-black transition-all duration-300 ease-in-out shadow-lg hover:shadow-xl dark:bg-white dark:placeholder-gray-500 dark:text-gray-800"
                       placeholder="Enter the meaning"
                       type="text"
                       onChange={(e) => setPrompt(e.target.value)}
