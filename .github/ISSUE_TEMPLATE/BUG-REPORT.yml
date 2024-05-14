@@ -1,21 +1,21 @@
 name: "🐛 Bug Report"
 description: Create a new ticket for a bug.
-title: "[bug] - <title>"
+title: "[bug]: <Enter Title>"
 labels: ["bug"]
 body:
   - type: textarea
     id: description
     attributes:
       label: "Description"
-      description: Please enter an explicit description of your issue
-      placeholder: Short and explicit description of your incident...
+      description: Please enter an explicit description of your issue.
+      placeholder: Short and explicit description of your incident.
     validations:
       required: true
   - type: textarea
     id: reprod
     attributes:
       label: "Reproduction steps"
-      description: Please enter an explicit description of your issue
+      description: Please enter an explicit description of your issue.
       value: |
         1. Go to '...'
         2. Click on '....'
@@ -46,11 +46,11 @@ body:
     id: browsers
     attributes:
       label: "Browsers"
-      description: What browsers are you seeing the problem on ?
+      description: What browsers are you seeing the problem on?
       multiple: true
       options:
-        - Firefox
         - Chrome
+        - Firefox
         - Safari
         - Microsoft Edge
         - Opera
@@ -60,7 +60,7 @@ body:
     id: os
     attributes:
       label: "OS"
-      description: What is the impacted environment ?
+      description: What is the impacted environment?
       multiple: true
       options:
         - Windows
