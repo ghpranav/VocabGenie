@@ -1,6 +1,7 @@
-import Link from "next/link";
-import FlashCard from "@/components/flash-card";
 import { promises as fs } from "fs";
+import Link from "next/link";
+
+import FlashCard from "@/components/flash-card";
 import ProgressStatus from "@/components/progress-status";
 
 export interface DecksPageProps {
@@ -19,7 +20,7 @@ interface FlashCardData {
   [word: string]: WordData; // Use an index signature for dynamic word properties
 }
 
-export default async function DecksPage({ params }: DecksPageProps) {
+export default async function DecksPage({ params }: Readonly<DecksPageProps>) {
   const { id } = params;
 
   const file = await fs.readFile(process.cwd() + `/lib/${id}.json`, "utf8");

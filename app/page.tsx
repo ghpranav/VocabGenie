@@ -10,12 +10,12 @@ export default function Home() {
         </h1>
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-        {decks.map((deck, index) => (
+        {decks.map((deck) => (
           <DeckCard
-            key={index}
-            alt={deck.alt}
+            key={deck.title}
             src={deck.src}
             title={deck.title}
+            type={deck.type}
           />
         ))}
       </div>
