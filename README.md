@@ -8,6 +8,18 @@ An AI-powered vocabulary flashcards web app that helps you learn new words and t
 
 ![flashcards-2](/public/screenshot-flash-card-2.png)
 
+## Note
+
+The vocabulary flashcards are scraped from the [Magoosh GRE Vocabulary Flashcards](https://gre.magoosh.com/flashcards/vocabulary/decks) website using a [Python script](https://github.com/ghpranav/VocabGenie/blob/main/scripts/scrape.py). The complete credit for the vocabulary data goes to the [Magoosh](https://magoosh.com/) website.
+
+## Stack
+
+- App framework: [Next.js](https://nextjs.org/)
+- Generative API: [Groq](https://console.groq.com/)
+- Generative Model: [LLaMA3 8b](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)
+- Component library: [shadcn/ui](https://ui.shadcn.com/)
+- Styling: [Tailwind CSS](https://tailwindcss.com/)
+
 ## Getting Started
 
 First, fill out secrets:
