@@ -1,8 +1,8 @@
 import { promises as fs } from "fs";
 import Link from "next/link";
+import path from "path";
 
 import FlashCard from "@/components/flash-card";
-import ProgressStatus from "@/components/progress-status";
 
 export interface DecksPageProps {
   params: {
@@ -23,7 +23,10 @@ interface FlashCardData {
 export default async function DecksPage({ params }: Readonly<DecksPageProps>) {
   const { id } = params;
 
-  const file = await fs.readFile(process.cwd() + `/lib/${id}.json`, "utf8");
+  const file = await fs.readFile(
+    path.resolve(process.cwd() + `/lib/${id}.json`),
+    "utf8"
+  );
   const wordData: FlashCardData = JSON.parse(file);
 
   if (!wordData || Object.keys(wordData).length === 0) {
