@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   title: "Vocab Genie",
   description:
     "Unleash your inner wordsmith! Flashcards meet AI for a smarter vocabulary adventure.",
+  verification: {
+    google: "eAXThJmzG524nBbXxQBfuq481f0CF8Hm1signqxMeMI",
+  },
 };
 
 export default function RootLayout({
