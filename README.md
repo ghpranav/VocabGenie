@@ -2,15 +2,15 @@
 
 An AI-powered vocabulary flashcards web app that helps you learn new words and their meanings.
 
-![home](/public/screenshot-home.png)
+![home](/public/vocabgenie-home.jpeg)
 
-![flashcards-1](/public/screenshot-flash-card-1.png)
+![flashcards-1](/public/vocabgenie-flash-card-1.jpeg)
 
-![flashcards-2](/public/screenshot-flash-card-2.png)
+![flashcards-2](/public/vocabgenie-flash-card-2.jpeg)
 
-## Note
+## Disclaimer
 
-The vocabulary flashcards are scraped from the [Magoosh GRE Vocabulary Flashcards](https://gre.magoosh.com/flashcards/vocabulary/decks) website using a [Python script](https://github.com/ghpranav/VocabGenie/blob/main/scripts/scrape.py). The complete credit for the vocabulary data goes to the [Magoosh](https://magoosh.com/) website.
+The vocabulary flashcards are scraped from the [Magoosh GRE Vocabulary Flashcards](https://gre.magoosh.com/flashcards/vocabulary/decks) website using a [Python script](https://github.com/ghpranav/VocabGenie/blob/main/scripts/scrape.py). The complete credit for the vocabulary data goes to the [Magoosh](https://magoosh.com/) website. The favicon is generated using [Google Gemini](https://gemini.google.com/).
 
 ## Stack
 
