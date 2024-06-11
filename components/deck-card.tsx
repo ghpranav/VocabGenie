@@ -16,13 +16,14 @@ export default function DeckCard(props: Readonly<DeckCardProps>) {
   const [wordProgress, setWordProgress] = useState<{
     [word: string]: "learning" | "reviewing" | "mastered";
   }>({});
-  const storedProgress = localStorage.getItem(`wordProgress-${src}`);
+  
   
   useEffect(() => {
+    const storedProgress = localStorage.getItem(`wordProgress-${src}`);
     if (storedProgress && storedProgress !== "{}") {
       setWordProgress(JSON.parse(storedProgress));
     }
-  }, [storedProgress]);
+  }, [src]);
 
 
   const getMasteredPercentage = () => {
