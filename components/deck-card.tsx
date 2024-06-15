@@ -1,8 +1,9 @@
 "use client";
+
 import { clsx } from "clsx";
 import Link from "next/link";
 import { Progress } from "./ui/progress";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 export interface DeckCardProps {
   title: string;
@@ -16,8 +17,7 @@ export default function DeckCard(props: Readonly<DeckCardProps>) {
   const [wordProgress, setWordProgress] = useState<{
     [word: string]: "learning" | "reviewing" | "mastered";
   }>({});
-  
-  
+
   useEffect(() => {
     const storedProgress = localStorage.getItem(`wordProgress-${src}`);
     if (storedProgress && storedProgress !== "{}") {
@@ -25,17 +25,14 @@ export default function DeckCard(props: Readonly<DeckCardProps>) {
     }
   }, [src]);
 
-
-  const getMasteredPercentage = () => {
-    const masteredWords =  Object.values(wordProgress).filter(
+  const masteredPercentage = useMemo(() => {
+    const masteredWords = Object.values(wordProgress).filter(
       (status) => status === "mastered"
     ).length;
     const totalWords = Object.keys(wordProgress).length;
     const masteredPercentage = Math.ceil((masteredWords / totalWords) * 100);
     return masteredPercentage;
-  }
-
-  const masteredPercentage = getMasteredPercentage();
+  }, [wordProgress]);
 
   return (
     <Link href={`/decks/${src}`}>
@@ -61,10 +58,10 @@ export default function DeckCard(props: Readonly<DeckCardProps>) {
           <div className="absolute bottom-4 left-4 w-5/6 text-white">
             <h2 className="text-2xl font-bold mb-2">{title}</h2>
             <Progress
-            className="w-full h-2 bg-gray-300 dark:bg-gray-800"
-            value={masteredPercentage}
-            indicatorColor="bg-primary"
-          />
+              className="w-full h-2 bg-gray-300 dark:bg-gray-800"
+              value={masteredPercentage}
+              indicatorColor="bg-primary"
+            />
           </div>
         </div>
       </div>

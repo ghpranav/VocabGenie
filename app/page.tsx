@@ -1,7 +1,6 @@
 import DeckCard from "@/components/deck-card";
 import { decks } from "@/lib/decks";
 
-
 export default function Home() {
   return (
     <main className="w-full max-w-6xl mx-auto px-4 py-8 md:px-6 md:py-12 lg:px-8 lg:py-16">
